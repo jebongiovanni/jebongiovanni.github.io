@@ -1,0 +1,9 @@
+# Site settings
+title: Jim's Portfolio
+author:
+  name: Jim Bongiovanni
+  email: citizenjim89@gmail.com
+description: "Jim's Portfolio."
+
+# Build settings
+remote_theme: "jekyll/minima@1e8a445"
