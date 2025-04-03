@@ -7,3 +7,5 @@ description: "Jim's Portfolio."
 
 # Build settings
 remote_theme: "jekyll/minima@1e8a445"
+minima:
+  show_excerpts: true
