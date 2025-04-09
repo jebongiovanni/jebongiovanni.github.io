@@ -3,6 +3,11 @@ languageCode = 'en-US'
 title = 'Your Site Title'
 theme = "void"
 
+# Image Cache
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 # Social media links
 [params]
   [params.social]
