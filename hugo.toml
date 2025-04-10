@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://jebongiovanni.github.io/'
 languageCode = 'en-US'
-title = 'Your Site Title'
+title = "Jim's Blog & Portfolio"
 theme = "void"
 
 # Image Cache
