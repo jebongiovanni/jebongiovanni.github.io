@@ -6,3 +6,6 @@
 - One
 - Two
 - Three
+
+![[images/autumn-morning.jpg]]
+

@@ -6,7 +6,7 @@ theme = "void"
 # Image Cache
 [caches]
   [caches.images]
-    dir = ':cacheDir/images'
+    dir = ':static/images'
 
 # Social media links
 [params]
