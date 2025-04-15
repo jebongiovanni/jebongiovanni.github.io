@@ -9,4 +9,5 @@
 2. Two
 3. Three
 
-![[autumn-morning.jpg]]
+![[summer-morning.jpg]]
+
